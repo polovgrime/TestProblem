@@ -21,7 +21,7 @@ And if build is successful, executable will be located in:
 
 Relative to project directory
 
-Test problem question: 
+Test problem questions: 
 
 > 1. Why did you approach the exercise the way you did?
 >
