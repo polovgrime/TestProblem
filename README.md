@@ -20,3 +20,14 @@ And if build is successful, executable will be located in:
 >\CurrencyInput\bin\Debug\net6.0\
 
 Relative to project directory
+
+Test problem question: 
+
+> 1. Why did you approach the exercise the way you did?
+>
+> Maybe, I could simplify the logic. I could definetely use libraries liek Humanizer and solve the problem in ten lines of code. But I chose this way, so I can show that
+> I have some experience and knowledge of this platform in a fast way. I tried to keep it as simple as I could with time I had 
+>
+> 2. If you had more time, what might you do differently?
+> 
+> If I had more time, I would make it in Windows Forms or some kind of web-service, instead of console application. And sourely I would try to simplify the logic more.
